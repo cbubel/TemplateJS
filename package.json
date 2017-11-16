@@ -1,0 +1,25 @@
+{
+  "name": "templatejs",
+  "version": "1.0.0",
+  "description": "A minimal front-end template using TypeScript and Webpack.",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbubel/TemplateJS.git"
+  },
+  "author": "Chris Bubel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbubel/TemplateJS/issues"
+  },
+  "homepage": "https://github.com/cbubel/TemplateJS#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.3.0",
+    "source-map-loader": "^0.2.3",
+    "typescript": "^2.6.1",
+    "webpack": "^3.8.1"
+  }
+}
